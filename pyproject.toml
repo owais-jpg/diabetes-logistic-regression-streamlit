@@ -1,0 +1,11 @@
+[project]
+name = "diabetes-logistic-regression"
+version = "1.0.0"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "streamlit",
+    "pandas",
+    "numpy",
+    "scikit-learn",
+    "joblib"
+]
